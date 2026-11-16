@@ -16,7 +16,8 @@ Virtual event platforms · AI-powered recruitment · Multilingual job boards
 |:-:|---|---|
 | 🏛️ | **[Riwaq Expo](https://app.riwaqexpo.com)** | Virtual & hybrid event platform with exhibitor booths, live sessions, networking and real-time transcription and translation. |
 | 🌉 | **[Josoor](https://app.josoor.ai)** | AI recruitment platform connecting candidates, companies and partners, with AI video interviews and smart matching. |
-| 📰 | **TalentExpo** | Multilingual job board in English, French and Arabic that brings opportunities to a wider audience. |
+| 🎯 | **[TalentExpo](https://www.talentexpo.ai)** | Recruitment platform for candidates, companies and partners, with a public job board in English, French and Arabic. |
+| 📰 | **TalentExpo CMS** | The content and job-board engine behind [talentexpo.ai](https://www.talentexpo.ai), [josoor.ai](https://www.josoor.ai) and [join.josoor.ai](https://join.josoor.ai): SEO pages, blog and job listings in three languages. |
 
 ---
 
@@ -56,6 +57,7 @@ Virtual event platforms · AI-powered recruitment · Multilingual job boards
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 
 ---
 
